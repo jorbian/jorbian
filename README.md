@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jonathan (or Jon -- either is fine)</h1>
+<h1 align="center">Hi 👋, I'm Jonathan</h1>
 - 🔭 I’m studying at [the Holberton School](https://www.holbertonschool.com/)
 
 - 🌱 I’m currently learning **a bunch of lower-level stuff in C I hope I never have to use again.**
