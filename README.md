@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **jonathan.boller@yahoo.co.uk**
 
-- ⚡ Fun fact **I never knew what it was like to fall in love with a city until I went to Porto, Portugal. I love the people. I love the language. One of my dearest ambitions in life is to end up back there.**
+- ⚡ Fun fact **I never knew what it was like to fall in love with a city until I went to Porto, Portugal. Love the people. Love the language. One of my dearest ambitions in life is to end up back there.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
