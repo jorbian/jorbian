@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jonathan</h1>
-- 🔭 I’m studying at [the Holberton School](https://www.holbertonschool.com/)
+- 🔭 I’m studying at [the Holberton School]
 
 - 🌱 I’m currently learning **a bunch of lower-level stuff in C I hope I never have to use again.**
 
 - 👯 I’m looking to collaborate on **something QA related. I love QA and would love any opportunity to get started on real life QA in an actual production environment.**
 
 - 👨‍💻 (Most) of my projects are available at [https://github.com/jorbian](https://github.com/jorbian)
-
-- 📝 I regularly write articles on [my-personal-website-I-haven't-set-up-yet.](my-personal-website-I-haven't-set-up-yet.)
 
 - 💬 Ask me about **how the Lambda Calculus can be used to explore one of the deepest mysteries of the universe.**
 
