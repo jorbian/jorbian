@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Jonathan</h1>
-- 🔭 I’m studying at [the Holberton School]
+- 🔭 I’m studying at [the Holberton School], specializing in Linux Programming, Advanced Algorithms, and Blockchain.
 
-- 🌱 I’m currently learning **a bunch of lower-level stuff in C I hope I never have to use again.**
-
-- 👯 I’m looking to collaborate on **something QA related. I love QA and would love any opportunity to get started on real life QA in an actual production environment.**
+- 🌱 I’m currently learning **C. C. AND MOAR C!!**
 
 - 👨‍💻 (Most) of my projects are available at [https://github.com/jorbian](https://github.com/jorbian)
 
