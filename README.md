@@ -5,7 +5,7 @@
 
 - 👨‍💻 (Most) of my projects are available at [https://github.com/jorbian](https://github.com/jorbian)
 
-- 💬 Ask me about **how the Lambda Calculus can be used to explore one of the deepest mysteries of the universe.**
+- 💬 Ask me about **how the Lambda Calculus can be used to explore the deepest mysteries of the universe.**
 
 - 📫 How to reach me **jonathan.boller@yahoo.co.uk**
 
